@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6289635513865','6281366074519','6282175435133'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6289635513865'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6289635513865' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Azagy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Nyx - MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Azagy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://youtube.com/channel/'
+global.ig = 'https://instagram.com/riy'
+global.mygc = 'https://chat.whatsapp.com/Fs0c8M54Kj2CLEZx185yci'
+global.myweb = 'none'
+global.email = 'YashiraXy@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Nyx - MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Azaa' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -52,7 +52,7 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 1500,
 }
 
 //—————「 Set Image 」—————//
