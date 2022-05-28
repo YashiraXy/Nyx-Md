@@ -1763,14 +1763,6 @@ case 'webtonsearch': case 'webtoon':
                     reply(mess.error)
                 })
             break
-case 'getip'
-var http = require('http')
-http.get({'host': 'api.ipify.org', 'port': 80, 'path': '/'}, function(resp) {
-            resp.on('data', function(ip) {
-                m.reply("My public IP address is: " + ip);
-            })
-        })
-break
             case 'anime':{
                 if (!text) return reply('Yang mau di cari apa?')
                 await reply(mess.wait)
